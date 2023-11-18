@@ -1,0 +1,23 @@
+body{
+    background: #4c4c4c;
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0f0f0f;
+}
+
+
+    
+
+.center{
+    display: flex;
+    justify-content: center; display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button{
+    cursor: pointer;
+}
